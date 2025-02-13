@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
         backgroundColor: "#F0F0F0",
         borderRadius: 10,
         justifyContent: "space-around",
-        width: 400,
+        width: 320,
         elevation: 5,
         shadowColor: "#000",
         shadowOffset: { width: 0, height: 3 },
