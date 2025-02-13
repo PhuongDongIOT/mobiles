@@ -1,7 +1,7 @@
-import Profile from 'screens/Profile';
+import Product from 'screens/Product';
 
 const profile = () => {
-  return <Profile />;
+  return <Product />;
 };
 
 export default profile;
